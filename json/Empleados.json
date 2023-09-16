@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Sandra Maria Estrada",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "Juan Carlos López",
+        "cargo": "Gerente"
+    },
+    {
+        "nombre": "Luisa Fernández",
+        "cargo": "Asistente"
+    },
+    {
+        "nombre": "Pedro Rodríguez",
+        "cargo": "Asistente"
+    },
+    {
+        "nombre": "Ana Martínez",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "Carlos Sánchez",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "María González",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "Jorge Pérez",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "Laura Ramírez",
+        "cargo": "Vendedor"
+    },
+    {
+        "nombre": "Manuel Jiménez",
+        "cargo": "Asistente"
+    }
+]

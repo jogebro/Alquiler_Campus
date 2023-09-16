@@ -1,0 +1,34 @@
+[
+    {
+        "cliente": "6505b532c804215afd247f2a",
+        "fecha_Inicio": "2023-05-12",
+        "fecha_fin": "2023-05-13",
+        "automovil": "Ford",
+        "costo": 20000,
+        "estado": true
+    },
+    {
+        "cliente": "Juan Martinez",
+        "fecha_Inicio": "2023-06-15",
+        "fecha_fin": "2023-06-16",
+        "automovil": "Nissan",
+        "costo": 22000,
+        "estado": false
+    },
+    {
+        "cliente": "Carlos Sánchez",
+        "fecha_Inicio": "2023-07-20",
+        "fecha_fin": "2023-07-21",
+        "automovil": "Mercedes-Benz",
+        "costo": 18000,
+        "estado": true
+    },
+    {
+        "cliente": "Pedro Rodriguez",
+        "fecha_Inicio": "2023-08-10",
+        "fecha_fin": "2023-08-11",
+        "automovil": "BMW",
+        "costo": 21000,
+        "estado": false
+    }
+]

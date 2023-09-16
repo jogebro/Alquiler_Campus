@@ -1,9 +1,10 @@
 const Automovil = require('../model/Automovil.js');
 
-// Mostrar todos los clientes registrados en la base de datos.
+// Obtener todos los automóviles disponibles para alquiler.
 const getAutoDisponible = async (req, res) => {
     try {
-        const data = await Automovil.find();
+        const data = await Automovil.find({estado: true})
+            .select('-_id -estado');
         res.json({
             disponibles: data
         });

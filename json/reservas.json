@@ -1,0 +1,62 @@
+[
+    {
+        "cliente": "Emilio Garcia Perez",
+        "fecha_Inicio": "2023-05-12",
+        "automovil": "Honda",
+        "estado": true
+    },
+    {
+        "cliente": "Ana Rodríguez",
+        "fecha_Inicio": "2023-06-20",
+        "automovil": "Ford",
+        "estado": true
+    },
+    {
+        "cliente": "Luis Torres",
+        "fecha_Inicio": "2023-07-15",
+        "automovil": "Ford",
+        "estado": false
+    },
+    {
+        "cliente": "María López",
+        "fecha_Inicio": "2023-08-03",
+        "automovil": "Chevrolet",
+        "estado": true
+    },
+    {
+        "cliente": "Juan Martinez",
+        "fecha_Inicio": "2023-09-10",
+        "automovil": "Nissan",
+        "estado": false
+    },
+    {
+        "cliente": "Laura González",
+        "fecha_Inicio": "2023-10-22",
+        "automovil": "Tesla",
+        "estado": true
+    },
+    {
+        "cliente": "Carlos Sánchez",
+        "fecha_Inicio": "2023-11-05",
+        "automovil": "Mercedes-Benz",
+        "estado": false
+    },
+    {
+        "cliente": "Elena Ramos",
+        "fecha_Inicio": "2023-12-18",
+        "automovil": "Audi",
+        "estado": true
+    },
+    {
+        "cliente": "Pedro Rodriguez",
+        "fecha_Inicio": "2024-01-07",
+        "automovil": "BMW",
+        "estado": false
+    },
+    {
+        "cliente": "Isabel Perez",
+        "fecha_Inicio": "2024-02-14",
+        "automovil": "Hyundai",
+        "estado": true
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "marca": "Ford",
+        "modelo": "2023 Mustang",
+        "capacidad": 5,
+        "sucursal": "A",
+        "estado": true
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "2023 Camry",
+        "capacidad": 5,
+        "sucursal": "B",
+        "estado": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "2023 Silverado",
+        "capacidad": 5,
+        "sucursal": "C",
+        "estado": true
+    },
+    {
+        "marca": "Honda",
+        "modelo": "2023 Civic",
+        "capacidad": 5,
+        "sucursal": "D",
+        "estado": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "2023 Altima",
+        "capacidad": 5,
+        "sucursal": "E",
+        "estado": true
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "2023 Model 3",
+        "capacidad": 5,
+        "sucursal": "F",
+        "estado": false
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "modelo": "2023 E-Class",
+        "capacidad": 5,
+        "sucursal": "G",
+        "estado": true
+    },
+    {
+        "marca": "Audi",
+        "modelo": "2023 A4",
+        "capacidad": 5,
+        "sucursal": "H",
+        "estado": false
+    },
+    {
+        "marca": "BMW",
+        "modelo": "2023 X5",
+        "capacidad": 5,
+        "sucursal": "I",
+        "estado": true
+    },
+    {
+        "marca": "Hyundai",
+        "modelo": "2023 Sonata",
+        "capacidad": 5,
+        "sucursal": "J",
+        "estado": false
+    }
+]
+

@@ -8,6 +8,8 @@ class Server{
         this.paths = {
             clientes: "/clientes",
             automoviles: "/automoviles",
+            alquileres: "/alquileres",
+            reservas: "/reservas",
         }
         this.routes();
         this.middleware();
@@ -25,6 +27,8 @@ class Server{
     routes(){
         this.app.use(this.paths.clientes, require('../routes/cliente.routes.js'));
         this.app.use(this.paths.automoviles, require('../routes/automovil.routes.js'));
+        this.app.use(this.paths.alquileres, require('../routes/alquiler.routes.js'));
+        this.app.use(this.paths.reservas, require('../routes/reserva.routes.js'));
     }
 
     listen(){

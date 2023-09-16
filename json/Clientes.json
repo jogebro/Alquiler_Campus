@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Emilio Garcia Perez",
+        "documento": 1005152623,
+        "telefono": 3155234668
+    },
+    {
+        "nombre": "Laura Martinez Rodriguez",
+        "documento": 1023547896,
+        "telefono": 3109876543
+    },
+    {
+        "nombre": "Carlos Lopez Ramirez",
+        "documento": 1056214789,
+        "telefono": 3187456321
+    },
+    {
+        "nombre": "Ana Sanchez Hernandez",
+        "documento": 1089654321,
+        "telefono": 3178965412
+    },
+    {
+        "nombre": "Juan Perez Gonzalez",
+        "documento": 1032147856,
+        "telefono": 3123456789
+    },
+    {
+        "nombre": "María Rodriguez Gomez",
+        "documento": 1078563214,
+        "telefono": 3198765432
+    },
+    {
+        "nombre": "Pedro Hernandez Silva",
+        "documento": 1012345678,
+        "telefono": 3145678901
+    },
+    {
+        "nombre": "Luisa Ramirez Torres",
+        "documento": 1067891234,
+        "telefono": 3112345678
+    },
+    {
+        "nombre": "Miguel Gonzalez Lopez",
+        "documento": 1045678901,
+        "telefono": 3134567890
+    },
+    {
+        "nombre": "Sofia Martinez Garcia",
+        "documento": 1098745632,
+        "telefono": 3167890123
+    }
+]

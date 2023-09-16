@@ -15,4 +15,4 @@ const Cliente = Schema({
     }
 })
 
-module.exports = model('Clientes', Cliente, 'Clientes');
+module.exports = model('Cliente', Cliente, 'Clientes');
