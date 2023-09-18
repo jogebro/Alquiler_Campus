@@ -1,14 +1,16 @@
 const { Schema, model } = require('mongoose');
 
-const Empleados = Schema({
+const Empleado = Schema({
     nombre:{
         type: String,
         ref: 'Cliente',
         required: true
 
       },
-      rol: { 
-        type:Date,
+      cargo: { 
+        type: String,
         required:true
       }
 })
+
+module.exports = model('Empleado', Empleado, 'Empleados')

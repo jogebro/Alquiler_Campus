@@ -10,6 +10,7 @@ class Server{
             automoviles: "/automoviles",
             alquileres: "/alquileres",
             reservas: "/reservas",
+            empleados: "/empleados",
         }
         this.routes();
         this.middleware();
@@ -29,6 +30,7 @@ class Server{
         this.app.use(this.paths.automoviles, require('../routes/automovil.routes.js'));
         this.app.use(this.paths.alquileres, require('../routes/alquiler.routes.js'));
         this.app.use(this.paths.reservas, require('../routes/reserva.routes.js'));
+        this.app.use(this.paths.empleados, require('../routes/empleado.routes.js'));
     }
 
     listen(){
